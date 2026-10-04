@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+.env
+*.env
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.aws/
+credentials
